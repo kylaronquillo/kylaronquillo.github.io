@@ -1,0 +1,38 @@
+    body{
+        background-color: lightslategray;
+        display:flex;
+        justify-content: center;
+        margin: 20px;
+    }
+    form{
+        width: 18%;
+        font-family: Oswald;
+        background-color: white;
+        padding: 15px;
+        border-radius: 8px;
+    }
+    .submit{
+        background-color: green;
+    }
+    .reset{
+        background-color: red;
+    }
+    button{
+        color: white;
+        padding: 3px;
+    }
+    input{
+        margin:5px;
+    }
+    h1{
+        text-align: center;
+    }
+    .textfields{
+        width: 90%;
+        padding:0px;
+        margin: 0px;
+    }
+    button{
+        border: none;
+        width: 70px;
+    }
